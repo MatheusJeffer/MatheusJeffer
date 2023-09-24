@@ -1,7 +1,7 @@
 ## Olá, eu sou o Matheus, seja bem vindo!
 
 Irei postar todos os meus projetos em Python, CSS, Html por aqui futuramente.
-Sou iniciante na programação, e pretendo trabalhar como Full Stack ou Dev Mobile futuramente 💻💻.
+Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd futuramente 💻💻.
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusjeffer&show_icons=true&theme=dark&count_private=False)
 ![Matheus Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJeffer&theme=dark&layout=compact)
