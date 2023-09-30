@@ -12,7 +12,9 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 <h3>Estudando:</h3>
 <div> 
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  
+ <img align="center" alt="Csharp" height="25"
+  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+            
 <div/> 
 
 
