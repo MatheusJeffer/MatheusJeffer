@@ -20,7 +20,9 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 <h3>Minhas linguagens favoritas:</h3>
 <div> 
   <img align="center" alt="Math-Python" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
- <img align="center" alt="Math-Python" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img align="center" alt="Csharp" height="25"
+  width="40" scr=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
   
 </div> 
 <hr>
