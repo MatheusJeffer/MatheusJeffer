@@ -7,7 +7,8 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusjeffer&show_icons=true&theme=dark&count_private=False)
 ![Matheus Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJeffer&theme=dark&layout=compact)
 
-
+ <img align="center" alt="studie" height="40"
+  width="40" src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=7289DA">
 
 <h3>Estudando:</h3>
 <div> 
