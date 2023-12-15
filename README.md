@@ -7,8 +7,6 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusjeffer&show_icons=true&theme=dark&count_private=False)
 ![Matheus Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJeffer&theme=dark&layout=compact)
 
- <img alt="studie" height="190"
-  width="190" src="https://user-images.githubusercontent.com/97471199/164148375-75b79a9a-77a4-43df-b3fd-b6472d8a8670.png"  style="margin-right">
 
 <h3>Estudando:</h3>
 <div> 
@@ -33,7 +31,8 @@ Sou iniciante na programação, e pretendo trabalhar como Game Dev e BackEnd fut
 <div> 
 
   <a href = "mailto:matherthentic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-jefferson-049b53270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/matheus-jefferson-049b53270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
+  badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
